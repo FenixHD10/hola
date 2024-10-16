@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="C:\Users\HP\Desktop\RAHA\recursos\ocean-logo-design-abstract-waves-seagulls-89336091.webp" type="image/x-icon">
-    <link rel="shortcut icon" href="C:\Users\HP\Desktop\RAHA\recursos\ocean-logo-design-abstract-waves-seagulls-89336091.webp" type="image/x-icon">
+    <link rel="icon" href="recursos\ocean-logo-design-abstract-waves-seagulls-89336091.webp" type="image/x-icon">
+    <link rel="shortcut icon" href="recursos\ocean-logo-design-abstract-waves-seagulls-89336091.webp" type="image/x-icon">
 <br>
     <title>Waterworld</title>
     <H1>Mundo de los Tiburones</H1>
@@ -18,9 +18,9 @@
     <br><br>
     El tiburón blanco es una especie muy activa y rápida. Solitaria aunque también puede encontrarse formando grupos de 10 o más ejemplares en zonas de alimentación. Se ha considerado el tiburón más peligroso del mundo.</p>
     <h5>Imagenes de Referencia</h6>
-    <img src="C:\Users\HP\Desktop\RAHA2\hola\recursos\tiburon-blanco-white-shark-1.jpg" alt="Imagen centrada" width="550" height="400">
-    <img src="C:\Users\HP\Desktop\RAHA2\hola\recursos\tiburon-blanco-white-shark-5.jpg"  alt="Imagen centrada" width="550" height="400">
-    <img src="C:\Users\HP\Desktop\RAHA2\hola\recursos\tiburon-blanco-white-shark-2.jpg" alt="Imagen centrada" width="550" height="400">
-    <img src="C:\Users\HP\Desktop\RAHA2\hola\recursos\tiburon-blanco-white-shark-7.jpg" alt="Imagen centrada" width="550" height="400">
+    <img src="recursos\tiburon-blanco-white-shark-1.jpg" alt="Imagen centrada" width="550" height="400">
+    <img src="recursos\tiburon-blanco-white-shark-5.jpg"  alt="Imagen centrada" width="550" height="400">
+    <img src="recursos\tiburon-blanco-white-shark-2.jpg" alt="Imagen centrada" width="550" height="400">
+    <img src="recursos\tiburon-blanco-white-shark-7.jpg" alt="Imagen centrada" width="550" height="400">
 </body>
 </html>
